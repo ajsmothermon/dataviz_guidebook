@@ -23,5 +23,5 @@ However, as I continued to research and read, I learned that these resources **d
 
 # Let's Talk! 
 
-See anything I missed? Have any feedback? Have a resource that I should read and include here? Please reach out. The amount of information on this topic is vast, and I would love to learn more from peers in my industry. You can find me on LinkedIn here(https://www.linkedin.com/in/andrew-smothermon-03b25988/).
+See anything I missed? Have any feedback? Have a resource that I should read and include here? Please reach out. The amount of information on this topic is vast, and I would love to learn more from peers in my industry. You can find me on LinkedIn [here](https://www.linkedin.com/in/andrew-smothermon-03b25988/).
 
